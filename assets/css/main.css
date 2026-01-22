@@ -788,6 +788,13 @@ section,
   text-align: center;
 }
 
+.portfolio .portfolio-filters button{
+  border: none;
+  margin: 0;
+  padding: 0 16px;
+  background: none;
+}
+
 .portfolio .portfolio-filters li {
   cursor: pointer;
   display: inline-block;
